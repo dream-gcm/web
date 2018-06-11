@@ -2,12 +2,11 @@
 layout: default
 ---
 
-## Welcome to the webpage of DREAM: 
-### Dynamical Research Empirical Atmospheric Model
+## Dynamical Research Empirical Atmospheric Model 
 
-## Credits: 
+### Credits: 
 * Nick Hall, LEGOS, Université de Toulouse, Toulouse, France.
-* Stephanie Leroux, IGE, Grenoble, France.
+* Stephanie Leroux, Ocean Next, Grenoble, France.
 
 
-## This page is under construction. More coming soon!
+### You can access the web page [here](https://dream-gcm.github.io/web) (under construction - more coming soon!).
