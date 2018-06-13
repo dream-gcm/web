@@ -9,4 +9,4 @@ layout: default
 * Stephanie Leroux, Ocean Next, Grenoble, France.
 
 
-### You can access the web page [here](https://dream-gcm.github.io/web) (under construction - more coming soon!).
+### Our [webpage](https://dream-gcm.github.io/) is currently under construction - but more coming soon!).
