@@ -1,0 +1,50 @@
+- title: "Home"
+  url: "/"
+  side: left
+  dropdown:
+  
+- title: About the model
+  url: "/about-the-model/"
+  side: left
+  dropdown:
+  - title: "About"
+    url: "/about-the-model/"
+  - title: "Docs & Publications"
+    url: "/publications/"
+  - title: "Get"
+    url: "/contact/"
+
+- title: Science
+  url: "/science/"
+  side: left
+  dropdown:
+  - title: "Docs & Publications"
+    url: "/publications/"
+  - title: "MJO"
+    url: "/science/mjo/"
+  - title: "ENSO - ANR ARISE"
+    url: "/science/arise/"
+  - title: "Project 3"
+    url: "/science/project3/"
+        
+- title: "DREAM-ers"
+  url: "/dream-users/"
+  side: left
+  dropdown:
+  - title: "Nick Hall"
+    url: "/dream-users/"
+  - title: "Stephanie Leroux"
+    url: "/dream-users/"
+  - title: "DREAM Users"
+    url: "/dream-users/"
+
+
+- title: "News"
+  url: "/news/"
+  side: right
+    
+    
+- title: "Contact us"
+  url: "/contact/"
+  side: right
+  dropdown:

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>DREAM</title>
+	<updated>2018-10-29T15:20:00+01:00</updated>
+
+	<subtitle>DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France. Please contact us if you want to start using DREAM.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>DREAM-GCM</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.8.4">Jekyll</generator>
+
+	
+</feed>
