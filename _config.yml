@@ -14,7 +14,7 @@ title: 'DREAM'
 slogan: 'Hydrosphere Data and Numerics'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France. Please contact us if you want to start using DREAM.'
+description: 'DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>DREAM on Github and Youtube:</p>'

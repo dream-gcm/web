@@ -9,16 +9,14 @@
   dropdown:
   - title: "About"
     url: "/about-the-model/"
-  - title: "Docs & Publications"
+  - title: "Publications & communications"
     url: "/publications/"
-  - title: "Get"
-    url: "/contact/"
 
 - title: Science
   url: "/science/"
   side: left
   dropdown:
-  - title: "Docs & Publications"
+  - title: "Publications & communications"
     url: "/publications/"
   - title: "MJO"
     url: "/science/mjo/"
@@ -37,11 +35,6 @@
     url: "/dream-users/"
   - title: "DREAM Users"
     url: "/dream-users/"
-
-
-- title: "News"
-  url: "/news/"
-  side: right
     
     
 - title: "Contact us"

@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France. Please contact us if you want to start using DREAM.">
+	<meta name="description" content="DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France.">
 	
 	
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France. Please contact us if you want to start using DREAM.">
+	<meta property="og:description" content="DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France.">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -138,20 +138,6 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/news/">News</a></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
               <li><a  href="http://localhost:4000/contact/">Contact us</a></li>
 
             
@@ -200,12 +186,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/publications/">Docs &amp; Publications</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/contact/">Get</a></li>
+                      <li><a  href="http://localhost:4000/publications/">Publications &amp; communications</a></li>
                     
                   </ul>
 
@@ -231,7 +212,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/publications/">Docs &amp; Publications</a></li>
+                      <li><a  href="http://localhost:4000/publications/">Publications &amp; communications</a></li>
                     
 
                       
@@ -289,12 +270,6 @@
               </li>
               <li class="divider"></li>
             
-          
-        
-
-              
-
-          
           
         
 
@@ -392,8 +367,8 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France. Please contact us if you want to start using DREAM.
-              <a href="http://localhost:4000/about-us/">More ›</a>
+              DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France.
+              <a href="http://localhost:4000/dream-users/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
