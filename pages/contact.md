@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact:"
+title: "Contact"
 meta_title: 
 subheadline: ""
 teaser: 
@@ -10,6 +10,6 @@ header:
     title: ""
 ---
 
-If you have any question about DREAM and/or you wish to use it for your own research, please contact us first at:
+If you have any question about DREAM contact us at:
 
 ![]({{ site.urlimg }}contactDREAMGCM.png "Contact us")
