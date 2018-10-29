@@ -22,7 +22,7 @@ widget2:
   text: 'Some of the science projects using DREAM [...]'
 widget3:
   title: "DREAM-ers"
-  url: /dreamers/
+  url: /dream-users/
   image: dreamers3.png
   text: ' Developers and users [...]'
 #
