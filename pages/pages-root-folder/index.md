@@ -24,7 +24,7 @@ widget3:
   title: "DREAM-ers"
   url: /dreamers/
   image: dreamers3.png
-  text: ' Developers and users More soon [...]'
+  text: ' Developers and users [...]'
 #
 # Use the call for action to show a button on the frontpage
 #
