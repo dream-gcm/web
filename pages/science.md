@@ -2,18 +2,19 @@
 layout: pagepluswidgets
 title: "Related science"
 permalink: "/science/"
+breadcrumb: true
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
 widget1:
   title: "MJO project"
-  url: /science/
+  url: /science/mjo/
   image: sci4.png
   text: 'More soon [...]'
   
 widget2:
   title: "ENSO: ANR ARISE"
-  url: /science/
+  url: /science/arise/
   image: mod2.png
   text: 'More soon [...]'
   

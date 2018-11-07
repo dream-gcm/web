@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Publications and communications"
+title: "Publications and communication"
 permalink: "/publications/"
+breadcrumb: true
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""

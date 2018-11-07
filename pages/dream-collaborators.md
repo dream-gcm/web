@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Under construnction..."
-sitemap: false
-permalink: "/project3/"
+title: "Dream users and collaborators"
+breadcrumb: true
+permalink: "/dream-users/collaborators/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""

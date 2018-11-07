@@ -9,14 +9,14 @@
   dropdown:
   - title: "About"
     url: "/about-the-model/"
-  - title: "Publications & communications"
+  - title: "Publications & communication"
     url: "/publications/"
 
 - title: Science
   url: "/science/"
   side: left
   dropdown:
-  - title: "Publications & communications"
+  - title: "Publications & communication"
     url: "/publications/"
   - title: "MJO"
     url: "/science/mjo/"
@@ -33,8 +33,8 @@
     url: "/dream-users/"
   - title: "Stephanie Leroux"
     url: "/dream-users/"
-  - title: "DREAM Users"
-    url: "/dream-users/"
+  - title: "DREAM collaborators"
+    url: "/dream-users/dream-collaborators/"
     
     
 - title: "Contact us"

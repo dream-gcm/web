@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Under construnction..."
-sitemap: false
-permalink: "/news/"
+breadcrumb: true
+permalink: "/science/mjo/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
@@ -10,5 +10,3 @@ header:
 
 
 #### We are currently working on this new website. More online soon!
-
-

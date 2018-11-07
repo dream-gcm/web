@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Under construnction..."
-sitemap: false
-permalink: "/project1/"
+breadcrumb: true
+permalink: "/science/arise/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""

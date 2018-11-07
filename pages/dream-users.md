@@ -1,8 +1,9 @@
 ---
 layout: pagepluswidgets
-title: "DREAM-ers"
+title: "DREAM-ers and collaborators"
 subheadline: ""
 teaser: ""
+breadcrumb: true
 permalink: "/dream-users/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
@@ -10,21 +11,21 @@ header:
    
 widget1:
   title: "Nick Hall"
-  url: /dream-users/NH/
+  url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-NH.jpg
   text: 'Professor at LEGOS/University Paul Sabatier, Toulouse, France.'
   
 widget2:
   title: "Stephanie Leroux"
-  url: /dream-users/SL/
+  url: "https://ocean-next.fr/team/SL/"
   image: team-SL.jpg
   text: 'PhD, Research scientist at Ocean Next, Grenoble, France. [...]'  
    
 widget3:
-  title: "DREAM users"
-  url: /dream-users/
+  title: "DREAM collaborators"
+  url: /dream-users/collaborators/
   image: dreamers3.png
-  text: 'About ~10 students and colleagues are using DREAM in their research work. If you want to join the group, please contact us by email.'
+  text: 'About ~10 colleagues and students  collaborate with us and use DREAM for their research. If you want to join the group, please contact us by email.'
  
   
 ---

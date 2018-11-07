@@ -3,6 +3,7 @@ layout: page
 title: "Under construnction..."
 sitemap: false
 permalink: "/about-the-model/"
+breadcrumb: true
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""

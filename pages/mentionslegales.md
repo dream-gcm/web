@@ -3,7 +3,8 @@ layout: page
 title: 
 meta_title: "Mention légales"
 subheadline: ""
-teaser: 
+teaser:
+breadcrumb: true 
 permalink: "/ml/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
