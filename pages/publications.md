@@ -10,7 +10,7 @@ header:
 
 ---
 ### Reading shortlist to start with DREAM:
-* __2018__ N. M. J. Hall, S. Leroux, T. Ambrizzi [Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model](). Climate Dynamics, _accepted, in press_.
+* __2018__ N. M. J. Hall, S. Leroux, T. Ambrizzi [Transient contributions to the forcing of the atmospheric annual cycle: A diagnostic study with the DREAM model](https://doi-org.gaelnomade-2.grenet.fr/10.1007/s00382-018-4539-y). Climate Dynamics, _Early Online Release_ [doi: 10.1007/s00382-018-4539-y].
 * __2000__ N. M. J. Hall. [A Simple GCM Based on Dry Dynamics and Constant Forcing](http://journals.ametsoc.org/doi/10.1175/1520-0469%282000%29057%3C1557%3AASGBOD%3E2.0.CO%3B2). J. Atmos. Sci., 57:1557– 1572.
 * __2006__ N. M. J. Hall. [Transient disturbances in the atmosphere and Ocean: their growth, transport properties and interaction with the general circulation](http://www.lthe.fr/PagePerso/boudevil/THESES/HDR/HDR_Hall_06.pdf). HDR.
 * __2000__ N. M. J. Hall and J. Derome. Transience, Nonlinearity, and Eddy Feedback in the Remote Response to El Nin ̃o. J. Atmos. Sci., 57:3992–4007, 2000.
