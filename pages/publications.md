@@ -21,8 +21,8 @@ header:
 ---
 ### Other studies using DREAM:
 * __2013__ N. M. J. Hall, H. Douville, and L. Li. Extratropical summertime response to tropical interannual vari- ability in an idealised GCM. Journal of Climate, 26:7060–7079.
+* __2011__ S. Leroux, N. M. J. Hall, and G. N. Kiladis. Intermittent african easterly wave activity in a dry atmo- spheric model: influence of the extratropics. J. Climate, 24:5378–5396.
 *  __2009__ S. Leroux and N. M. J. Hall. On the relationship between African Easterly Waves and the African Easterly Jet. J. Atmos. Sci., 66:2303–2316.
-* __2010__ S. Leroux, N. M. J. Hall, and G. N. Kiladis. Intermittent african easterly wave activity in a dry atmo- spheric model: influence of the extratropics. J. Climate, 24:5378–5396.
 * __2004__ N. M. J. Hall. The atmospheric response to boundary forcing and the use of diagnostic models. J. Phys. IV France, 121:125–137.
 
 ---
