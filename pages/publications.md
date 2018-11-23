@@ -27,7 +27,7 @@ header:
 
 ---
 ### Presentations:
-* __2017__ Aug.  "DREAM training" presentation, by Nick Hall, [[PDF]]()
+* __2017__ Aug.  "DREAM training" presentation, by Nick Hall, [[PDF]](http://www.legos.obs-mip.fr/members/hall/dream_training_handout?lang=fr)
 
 --- 
 ### Technical docs:
