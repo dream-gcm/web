@@ -263,7 +263,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/dream-users/dream-collaborators/">DREAM collaborators</a></li>
+                      <li><a  href="http://localhost:4000/dream-users/group/">DREAM collaborators</a></li>
                     
                   </ul>
 

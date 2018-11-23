@@ -1,10 +1,10 @@
 ---
-layout: pagepluswidgets
+layout: pagepluswidgets2
 title: "DREAM-ers and collaborators"
 subheadline: ""
 teaser: ""
 breadcrumb: true
-permalink: "/dream-users/"
+permalink: "/dream-users/group/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
@@ -29,3 +29,13 @@ widget3:
  
   
 ---
+
+
+Some of the current DREAM users and collaborators:
+
+* __Tercio Ambrizzi__ and his students __Jose Landreo Campos__ and __Lais Tabosa Machado__  at IAG, University of Sao Paulo, Sao Paulo, Brazil.
+* __Christ Thorncroft__ and his students __Yuan-Ming Cheng__ and __Victor Torres__ at SUNY, Albany, New York, USA.
+* __George Kiladis__ at ESRL, NOAA, Boulder, Colorado, USA.
+* __Hai Lin__,  Environment Canada, Montreal, Canada.
+
+_If you want to join the group, please contact us by [email](https://dream-gcm.github.io/contact/)!_
