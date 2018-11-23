@@ -31,7 +31,7 @@ widget3:
 ---
 
 
-Some of the current DREAM users and collaborators:
+### Some of the current DREAM users and collaborators:
 
 * __Tercio Ambrizzi__ and his students __Jose Landreo Campos__ and __Lais Tabosa Machado__  at IAG, University of Sao Paulo, Sao Paulo, Brazil.
 * __Christ Thorncroft__ and his students __Yuan-Ming Cheng__ and __Victor Torres__ at SUNY, Albany, New York, USA.
