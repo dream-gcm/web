@@ -16,7 +16,6 @@ We find that the response is modified by the propagation of the source in a way 
 
 For further details see Hall et al, 2020 (submitted to Climate Dynamics). 
 
-
-  title: "Remote response to MJO"
-  image: "Fixed_vs_Propagating_source.png"
-  text: 'Day-12 z500 from ensemble integrations of DREAM with simulated tropical deep convection fixed or propagating dipole'
+  ## Remote response to MJO
+  !(/images/Fixed_vs_Propagating_source.png.png)
+  ### Day-12 z500 from ensemble integrations of DREAM with simulated tropical deep convection fixed or propagating dipole
