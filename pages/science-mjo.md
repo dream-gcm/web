@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Under construnction..."
+title: "Extratropical response to the MJO."
 breadcrumb: true
 permalink: "/science/mjo/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
 ---
-
-
-Extratropical response to the MJO
 
 The Madden Julian Oscillation (MJO) has a systematic influence on the state of the extratropical atmosphere. The physical mechanism involves teleconnections from tropical deep convective heat sources through wave propagation. MJO heating resembles a propagating dipole that cycles through phases on a timescale similar to the response timescale. This complicates the attribution of the response to a well identified phase in the tropical heat source. 
 

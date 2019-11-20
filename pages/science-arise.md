@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Under construnction..."
+title: "Nonlinear Response to En Nino."
 breadcrumb: true
 permalink: "/science/arise/"
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
 ---
-
-
-Nonlinear Response to En Nino
 
 part of the ARiSE Project (link)
 
