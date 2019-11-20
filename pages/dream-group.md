@@ -20,8 +20,14 @@ widget2:
   url: "https://ocean-next.fr/team/SL/"
   image: team-SL.jpg
   text: 'PhD, Research scientist at Ocean Next, Grenoble, France. [...]'  
-   
+
 widget3:
+  title: "Hong-Hanh Le"
+  url: "http://www.legos.obs-mip.fr/members/hall"
+  image: team-HHL.jpg
+  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
+   
+widget4:
   title: "DREAM collaborators"
   url: /dream-users/group/
   image: dreamers3.png
