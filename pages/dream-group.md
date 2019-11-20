@@ -39,9 +39,9 @@ widget4:
 
 ### Some of the current DREAM users and collaborators:
 
+* __Hai Lin__,  Environment Canada, Montreal, Canada.
 * __Tercio Ambrizzi__ and his students __Jose Landreo Campos__ and __Lais Tabosa Machado__  at IAG, University of Sao Paulo, Sao Paulo, Brazil.
 * __Christ Thorncroft__ and his students __Yuan-Ming Cheng__ and __Victor Torres__ at SUNY, Albany, New York, USA.
 * __George Kiladis__ and __Juliana Dias__ at ESRL, NOAA, Boulder, Colorado, USA.
-* __Hai Lin__,  Environment Canada, Montreal, Canada.
 
 _If you want to join the group, please contact us by [email](https://dream-gcm.github.io/contact/)!_
