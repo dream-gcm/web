@@ -27,7 +27,7 @@ widget3:
   image: team-HHL.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
 
-widget3:
+widget4:
   title: "DREAM collaborators"
   url: /dream-users/group/
   image: dreamers3.png

@@ -18,5 +18,5 @@ For further details see Hall et al, 2020 (submitted to Climate Dynamics).
 
 widget1:
   title: "Remote response to MJO"
-  image: Fixed_vs_Propagating_source.png
+  image: "Fixed_vs_Propagating_source.png"
   text: 'Day-12 z500 from ensemble integrations of DREAM with simulated tropical deep convection fixed or propagating dipole'
