@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "ENSO: ANR ARISE"
   url: /science/arise/
-  image: mod2.png
+  image: ARiSE_U975_V2.png
   text: 'More soon [...]'
   
 widget3:
