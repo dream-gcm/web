@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Extratropical response to the MJO."
+title: "Extratropical response to the MJO"
 breadcrumb: true
 permalink: "/science/mjo/"
 header:
@@ -18,6 +18,6 @@ For further details see Hall et al, 2020 (submitted to Climate Dynamics).
 
 #### Remote response to MJO
 
-   !(/images/Fixed_vs_Propagating_source.png.png)
+   ![Propagating Source](./images/Fixed_vs_Propagating_source.png.png)
 
 Day-12 z500 from ensemble integrations of DREAM with simulated tropical deep convection fixed or propagating dipole
