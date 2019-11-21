@@ -18,4 +18,4 @@ The relationship between the SST anomaly associated with an El Nino event and th
 
    ![ARiSE result](/images/ARiSE_U975_V2.png)
 
-*A preliminary result from the DREAM model shows this in terms of the low level wind from a long term mean with an idealised deep convective heat source in the equatorial mid-Pacific. Three cases are shown with increasing amplitudes of heating. The response has been scaled such that if it were linear, the three plots would be identical. Clearly there is a nonlinear saturation effect, currently under investigation. *
+*A preliminary result from the DREAM model shows this in terms of the low level wind from a long term mean with an idealised deep convective heat source in the equatorial mid-Pacific. Three cases are shown with increasing amplitudes of heating. The response has been scaled such that if it were linear, the three plots would be identical. Clearly there is a nonlinear saturation effect, currently under investigation.*
