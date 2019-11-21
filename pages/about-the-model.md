@@ -42,4 +42,4 @@ Further extensions to DREAM are under development, including interaction with mo
 
 Further details of the DREAM model can be seen in  [this training course presentation](http://www.legos.obs-mip.fr/members/hall/dream_training_handout?lang=fr).
 
-DREAM has been used for a wide range of applications, including fundamental properties of the midlatitude jets, teleconnections from tropical convection, the annual cycle and easterly waves over West Africa. A complete list of publications is given [here](/pages/publications.md). 
+DREAM has been used for a wide range of applications, including fundamental properties of the midlatitude jets, teleconnections from tropical convection, the annual cycle and easterly waves over West Africa. A complete list of publications is given [here](./pages/publications.md). 
