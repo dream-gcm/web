@@ -28,7 +28,7 @@ header:
 ---
 ### Complete list of studies using DREAM:
 
-- Derome, J., H. Lin, and G. Brunet, 2005: Seasonal forecasting with a simple general circulation model: predictive skill in the AO and PNA. J. of Climate, 18, 597-609.
+- Derome, J., H. Lin, and G. Brunet, 2005: Seasonal forecasting with a simple general circulation model: predictive skill in the AO and PNA. *J. of Climate,* **18**, *597-609*.
 - Hall, N.M.J., 2000: A simple GCM based on dry dynamics and constant forcing. J. Atmos. Sci., 57, 1557-1572.
 - Hall, N.M.J., and P.D. Sardeshmukh, 1998: Is the time mean Northern Hemisphere flow baroclinically unstable ?  J. Atmos. Sci., 55, 41-56.
 - Hall, N.M.J. and J. Derome, 2000: Transience, nonlinearity and eddy feedback in the remote response to El Niño.  J. Atmos. Sci., 57, 3992-4007.
