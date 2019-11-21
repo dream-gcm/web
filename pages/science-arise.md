@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nonlinear Response to El Nino"
+title: "Nonlinear Response to El Niño"
 breadcrumb: true
 permalink: "/science/arise/"
 header:
