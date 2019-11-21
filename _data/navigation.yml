@@ -22,19 +22,19 @@
     url: "/science/mjo/"
   - title: "ENSO - ANR ARISE"
     url: "/science/arise/"
-  - title: "Project 3"
-    url: "/science/project3/"
+  #- title: "Project 3"
+  #  url: "/science/project3/"
         
 - title: "DREAM-ers"
   url: "/dream-users/"
   side: left
-  dropdown:
-  - title: "Nick Hall"
-    url: "/dream-users/"
-  - title: "Stephanie Leroux"
-    url: "/dream-users/"
-  - title: "DREAM collaborators"
-    url: "/dream-users/group/"
+  #dropdown:
+  #- title: "Nick Hall"
+  #  url: "/dream-users/"
+  #- title: "Stephanie Leroux"
+  #  url: "/dream-users/"
+  #- title: "DREAM collaborators"
+  #  url: "/dream-users/group/"
     
     
 - title: "Contact us"
