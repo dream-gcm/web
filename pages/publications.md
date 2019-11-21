@@ -50,7 +50,7 @@ header:
 - Lin, H., J. Derome, and G. Brunet 2009 The Nonlinear Transient Atmospheric Response to Tropical Forcing. *J. Climate, **20**, 5642-5665.*
 - Lin, H., G. Brunet, and R. Mo, 2010: Impact of the Madden-Julian Oscillation on wintertime precipitation in Canada. *Mon. Wea. Rev., **138**, 3822—3839.*
 - Lin, H., R. Mo, F. Vitart, and C. Stan, 2018: Eastern Canada flooding 2017 and its subseasonal predictions. *Atmosphere-Ocean, doi:10.1080/07055900.2018.1547679.*
-- Lin, H., J. Derome, R. J. Greatbatch, K. A. Peterson, and J. Lu, 2002: Tropical links of the Arctic Oscillation. *Geophys. Res. Lett., **29(20)**, 1943-1947*
+- Lin, H., J. Derome, R. J. Greatbatch, K. A. Peterson, and J. Lu, 2002: Tropical links of the Arctic Oscillation. *Geophys. Res. Lett., **29**(20), 1943-1947*
 - Peterson, A. R. Greatbatch, J. Lu, H. Lin, and J. Derome, 2002:  Hindcasting the NAO using diabatic forcing of a simple AGCM. *Geophys. Res. Lett., **29**, 10.1029/2001GL014502.*
 - Tang, Y., H .Lin, J. Derome, and M.K. Tippett, 2007, Measuring the reliability of seasonal predictions for the Arctic Oscillation. *J. Climate, **20**, 4733-4750.*
 - Tang, Y., H. Lin, and A. M. Moore, 2008, Measuring the potential predictability of ensemble climate predictions. *J. Geophys. Res., **113**, D04108, doi:10.1029/2007JD008804.*
@@ -68,6 +68,7 @@ header:
 - Yu, B., and H. Lin, 2013: Tropical American-Atlantic forcing of austral summertime variability in the southern annular mode. *Geophy. Res. Lett. , **40**, 5, 943-947.*
 - Yu, B., and H. Lin, 2015: Tropical atmospheric forcing of the wintertime North Atlantic Oscillation. *J Climate. **29**, 1755-1772.*
 - Zhang, X., H. Lin, and J. Jiang, 2012: Global response to tropical diabatic heating variability in boreal winter, *Adv. Atmos. Sci., **29**, 369-380.*
+
 ---
 
 
