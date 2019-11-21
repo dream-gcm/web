@@ -46,4 +46,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-#### _We are currently working on this new website. More online soon!_

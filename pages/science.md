@@ -23,5 +23,3 @@ widget3:
    
 ---
 
-
-#### We are currently working on our new website. More online soon!
