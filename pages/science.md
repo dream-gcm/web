@@ -12,7 +12,7 @@ widget1:
   image: sci4.png
   
 widget2:
-  title: "ENSO: ANR ARISE"
+  title: "ENSO: ANR ARiSE"
   url: /science/arise/
   image: ARiSE_U975_V2_square.png
   
