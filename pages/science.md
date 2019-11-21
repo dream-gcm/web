@@ -9,7 +9,7 @@ header:
 widget1:
   title: "MJO project"
   url: /science/mjo/
-  image: sci4.png
+  image: MJO_square.png
   
 widget2:
   title: "ENSO: ANR ARiSE"
