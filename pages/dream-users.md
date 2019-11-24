@@ -1,6 +1,6 @@
 ---
 layout: pagepluswidgets2
-title: "DREAM-ers and collaborators"
+title: "The DREAM team"
 subheadline: ""
 teaser: ""
 breadcrumb: true
