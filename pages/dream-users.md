@@ -22,9 +22,15 @@ widget2:
   text: 'PhD, Research scientist at Ocean Next, Grenoble, France. [...]'  
    
 widget3:
+  title: "Hong-Hanh Le"
+  url: "http://www.legos.obs-mip.fr/members/hall"
+  image: team-HHL.jpg
+  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
+  
+Widget4:
   title: "Margot Beniche"
   url: "http://www.legos.obs-mip.fr/members/hall"
-  image: team-MB.jpg
+  image: team-WTF.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
 ---
