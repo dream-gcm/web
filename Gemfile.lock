@@ -79,6 +79,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
+  public_suffix (= 3.0.3)
 
 BUNDLED WITH
-   1.16.1
+   1.17.2

@@ -224,11 +224,6 @@
 
                       <li><a  href="http://localhost:4000/science/arise/">ENSO - ANR ARISE</a></li>
                     
-
-                      
-
-                      <li><a  href="http://localhost:4000/science/project3/">Project 3</a></li>
-                    
                   </ul>
 
               </li>
@@ -244,31 +239,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/dream-users/">DREAM-ers</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/dream-users/">Nick Hall</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/dream-users/">Stephanie Leroux</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/dream-users/group/">DREAM collaborators</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="http://localhost:4000/dream-users/">DREAM-ers</a></li>
               <li class="divider"></li>
+
+            
             
           
         
