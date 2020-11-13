@@ -15,7 +15,7 @@ widget1:
   image: team-NH.jpg
   text: 'Professor at LEGOS/University Paul Sabatier, Toulouse, France.'
    
-Widget2:
+widget2:
   title: "Hong-Hanh Le"
   url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-HHL.jpg
