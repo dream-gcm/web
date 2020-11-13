@@ -27,6 +27,12 @@ widget3:
   image: team-HHL.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
+widget4:
+  title: "Margot Beniche"
+  url: "http://www.legos.obs-mip.fr/members/hall"
+  image: team-MB.jpg
+  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
+  
 ---
 
 ### Some of the current DREAM users and collaborators:
