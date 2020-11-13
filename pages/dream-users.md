@@ -24,13 +24,13 @@ widget2:
 widget3:
   title: "Hong-Hanh Le"
   url: "http://www.legos.obs-mip.fr/members/hall"
-  image: team-HHL.jpg
+  image: team-MB.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
 widget4:
   title: "Margot Beniche"
   url: "http://www.legos.obs-mip.fr/members/hall"
-  image: team-MB.jpg
+  image: team-HHL.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
 ---
