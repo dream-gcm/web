@@ -9,29 +9,29 @@ header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
    
-widget1:
+Widget1:
   title: "Nick Hall"
   url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-NH.jpg
   text: 'Professor at LEGOS/University Paul Sabatier, Toulouse, France.'
-  
-widget2:
-  title: "Stephanie Leroux"
-  url: "https://ocean-next.fr/team/SL/"
-  image: team-SL.jpg
-  text: 'PhD, Research scientist at Ocean Next, Grenoble, France. [...]'  
    
-widget3:
+Widget2:
   title: "Hong-Hanh Le"
   url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-HHL.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
-widget4:
+Widget3:
   title: "Margot Beniche"
   url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-MB.jpg
-  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
+  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]' 
+
+Widget4:
+  title: "Stephanie Leroux"
+  url: "https://ocean-next.fr/team/SL/"
+  image: team-SL.jpg
+  text: 'PhD, Research scientist at Ocean Next, Grenoble, France. [...]'   
   
 ---
 
