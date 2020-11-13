@@ -27,10 +27,10 @@ widget3:
   image: team-HHL.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
-Widget4:
+widget4:
   title: "Margot Beniche"
   url: "http://www.legos.obs-mip.fr/members/hall"
-  image: team-WTF.jpg
+  image: team-MB.jpg
   text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France. [...]'  
   
 ---
