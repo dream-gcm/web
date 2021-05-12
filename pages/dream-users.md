@@ -1,5 +1,5 @@
 ---
-layout: pagepluswidgets3
+layout: pagepluswidgets2
 title: "The DREAM team"
 subheadline: ""
 teaser: ""
