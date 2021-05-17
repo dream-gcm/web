@@ -90,6 +90,33 @@ format: page-fullwidth
 </div><!-- /.row -->
 {% endif %}
 
+
+{% comment %}
+*
+* Third check, if more than 6 widgets: add another line of widges
+*
+{% endcomment %}
+
+{% if page.widget7.title %}
+
+<div class="row t60">
+	{% if page.widget7.title %}
+		{% include _frontpage-widget.html widget=page.widget7 %}
+	{% endif %}
+
+
+	{% if page.widget8.title %}
+		{% include _frontpage-widget.html widget=page.widget8 %}
+	{% endif %}
+
+
+	{% if page.widget9.title %}
+		{% include _frontpage-widget.html widget=page.widget9 %}
+	{% endif %}	
+</div><!-- /.row -->
+{% endif %}
+
+
 {% comment %}
 *
 * First check, if there is a call for action-button
